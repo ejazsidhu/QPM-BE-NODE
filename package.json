@@ -1,0 +1,22 @@
+{
+  "name": "qpm-node-mysql",
+  "version": "1.0.0",
+  "description": "qpm ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejazsidhu/QPM-BE-NODE.git"
+  },
+  "keywords": [
+    "qpm"
+  ],
+  "author": "ejaz sidhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ejazsidhu/QPM-BE-NODE/issues"
+  },
+  "homepage": "https://github.com/ejazsidhu/QPM-BE-NODE#readme"
+}
